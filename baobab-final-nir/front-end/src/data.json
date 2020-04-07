@@ -1,0 +1,87 @@
+[
+    {
+        "id": 0,
+        "street": "Yehoash 10",
+        "squareFoot": "60 SQM",
+        "numberOfRooms":"2 Rooms",
+        "rentFee":"5500 ILS",
+        "image": "1.jpg",
+        "likedApartments": [],
+        "dislikedApartments": [],
+        "likedBy": []
+    },
+    {
+        "id": 1,
+        "street": "Dizengoff 82",
+        "squareFoot": "60 SQM",
+        "numberOfRooms":"2 Rooms",
+        "rentFee":"5750 ILS",
+        "image": "2.jpg",
+        "likedApartments": [],
+        "dislikedApartments": [],
+        "likedBy": []
+    },
+    {
+        "id": 2,
+        "street": "Ben Yehuda 100",
+        "squareFoot": "80 SQM",
+        "numberOfRooms":"3 Rooms",
+        "rentFee":"6800 ILS",
+        "image": "3.jpg",
+        "likedApartments": [],
+        "dislikedApartments": [],
+        "likedBy": []
+    },
+    {
+        "id": 3,
+        "street": "Arnon 18",
+        "squareFoot": "60 SQM",
+        "numberOfRooms":"2 Rooms",
+        "rentFee":"5000 ILS",
+        "image": "4.jpg",
+        "likedApartments": [],
+        "dislikedApartments": [],
+        "likedBy": []
+
+    },
+    {
+    
+        "id": 4,
+        "street": "Rupin 16",
+        "squareFoot": "65 SQM",
+        "numberOfRooms": "2.5 Rooms",
+        "rentFee":"5800 ILS",
+        "image": "5.jpg",
+        "likedApartments": [],
+        "dislikedApartments": [],
+        "likedBy": []
+
+    },
+    {
+     
+        "id": 5,
+        "street": "Mapu 22",
+        "squareFoot": "75 SQM",
+        "numberOfRooms":"3 Rooms",
+        "rentFee":"6700 ILS",
+        "image": "6.jpg",
+        "likedApartments": [],
+        "dislikedApartments": [],
+        "likedBy": []
+
+    },
+    {
+      
+        "id": 6,
+        "street": "Shalag 16",
+        "squareFoot": "65 SQM",
+        "numberOfRooms": "2 Rooms",
+        "rentFee":"5400 ILS",
+        "image": "7.jpg",
+        "likedApartments": [],
+        "dislikedApartments": [],
+        "likedBy": []
+
+    }
+  ]
+  
